@@ -56,4 +56,12 @@ Pana la 99
 
 La fiecare pas, vom pleca din elementele care au cei mai putini vecini nevizitati.
 
-O idee ar fi: daca lungime insulitei este mai mare ca inaltimea ei, sa mergem sus/jos
+O idee ar fi: daca lungime insulitei este mai mare ca inaltimea ei, sa mergem sus/jos.
+
+
+Pentru insulita create de bot (si in viitor de alti boti si playeri),
+ne intereseaza foarte mult conturul ei (ce pozitii ocupa si ce valori de strength sunt).
+
+Folosim Greedy: ne bazam pe solutia precedenta
+
+

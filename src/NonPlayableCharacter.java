@@ -1,6 +1,6 @@
 package src;
 
-public class Player {
+public class NonPlayableCharacter {
     private int id;
 
     public int getId() {
