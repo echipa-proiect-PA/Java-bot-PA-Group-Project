@@ -1,1 +1,3 @@
 game_binaries/
+*.log
+*.hlt
