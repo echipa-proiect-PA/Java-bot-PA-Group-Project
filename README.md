@@ -4,9 +4,9 @@
 
 
 
-Setup:
-	prototype_bot 	- contains a prototype bot written in python
-	main_bot 	- contains sources for the main bot (which will be submitted)
-	!!! Note !!! 	- It is recommended to move game binaries into /game_binaries folder 
+to setup the project run:
 
+./setup.h
+
+after running this command the game binaries can be found inside /game_binaries directory
 
