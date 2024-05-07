@@ -1,8 +1,8 @@
 sources for the prototype bot
 Here we will prototype the ideas for our bot before implementing them in the main_bot
 
-to run the prototype bot (from the repo root folder) for 'Etapa 1':
-	./game_binaries/halite -d "W H" -n 1 -s 42 "python3 prototype_bot/MyBot.py"
+to run the main bot (from the repo root folder) for 'Etapa 1':
+	./game_binaries/halite -d "W H" -n 1 -s 42 "python3 main_bot/MyBot.py"
 	
 	where:
 		W - width of the map
