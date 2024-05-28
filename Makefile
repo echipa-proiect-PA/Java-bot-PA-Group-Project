@@ -6,7 +6,7 @@ clean:
 
 
 run:
-	./game_binaries/halite -d "$(word 2,$(MAKECMDGOALS)) $(word 3,$(MAKECMDGOALS))" -n 1 -s 42 "python3 main_bot/MyBot.py"
+	python main_bot/MyBot.py
 
 %:
 	@:
